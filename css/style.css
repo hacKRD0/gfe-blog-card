@@ -53,6 +53,7 @@ body {
   flex-direction: column;
   gap: 12px;
   background-color: #ffffff;
+  flex: 3;
 }
 
 /* Title Block */
