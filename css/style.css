@@ -34,6 +34,7 @@ body {
 
 .blog-post {
   width: 340px;
+  height: auto;
   margin: 120px auto;
   display: flex;
   flex-direction: column;
@@ -43,8 +44,7 @@ body {
 
 .blog-post img {
   max-width: 100%;
-  height: auto;
-  
+  height: 288px;
 }
 
 .blog-body {
